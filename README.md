@@ -1,5 +1,4 @@
-create database college;
-create table demo
-(ID int primary key,
-college_name varchar (50));
-desc demo;
+Database college is created.
+It is used while creating table Demo.
+Attributes in table Demo are ID, college_name.
+Description pf table Demo is displayed.
